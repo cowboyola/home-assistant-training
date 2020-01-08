@@ -1,0 +1,1 @@
+2020-01-08 20:22:35 WARNING (MainThread) [homeassistant.loader] You are using a custom integration for nordpool which has not been tested by Home Assistant. This component might cause stability problems, be sure to disable it if you do experience issues with Home Assistant.
